@@ -1,4 +1,4 @@
-# 🌍 Where Is This? Iran Edition
+# 🌍 Where Is This? 
 
 Testing if Gemini 3 Pro actually knows the world — specifically Iran.
 
@@ -15,7 +15,7 @@ Testing if Gemini 3 Pro actually knows the world — specifically Iran.
 
 ## The Experiment
 
-Google says Gemini 2.5 Pro can recognize any place on Earth from coordinates.
+Google says Gemini 3 Pro can recognize any place on Earth from coordinates.
 
 So I tested it with Iran — a country the world barely knows.
 
@@ -27,9 +27,8 @@ AI only knows what the world teaches it.
 
 ## Built With
 
-- **Gemini 2.5 Pro** — location recognition + coordinate identification
-- **Gemini 2.5 Flash Image** — generates location images
-- **Nano Banana** — UI framework
+- **Gemini 3 Pro** — location recognition + coordinate identification
+- - **Nano Banana** 
 
 ## Try It Yourself
 
